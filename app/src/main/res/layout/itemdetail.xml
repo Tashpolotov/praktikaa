@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/img_detail"
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        />
+
+    <TextView
+        android:id="@+id/tv_Rick"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_gravity="center"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="aaaaa"
+        android:textSize="50sp"
+        android:gravity="center"
+        />
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center|start"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="Gender"
+        android:textSize="16sp"
+        android:layout_marginStart="20dp"
+        />
+
+    <TextView
+        android:id="@+id/tv_male_detail"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:textSize="14sp"
+        android:text="a"
+        android:layout_marginStart="20dp"
+        android:layout_gravity="center|start"
+        />
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center|start"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="Status"
+        android:textSize="16sp"
+        android:layout_marginStart="20dp"
+        />
+
+    <TextView
+        android:id="@+id/tv_Alive"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:textSize="14sp"
+        android:text="a"
+        android:layout_marginStart="20dp"
+        android:layout_gravity="center|start"
+        />
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center|start"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="Specie"
+        android:textSize="16sp"
+        android:layout_marginStart="20dp"
+        />
+
+    <TextView
+        android:id="@+id/tv_Human"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:textSize="14sp"
+        android:text="a"
+        android:layout_marginStart="20dp"
+        android:layout_gravity="center|start"
+        />
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center|start"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="Origin"
+        android:textSize="16sp"
+        android:layout_marginStart="20dp"
+        />
+
+    <TextView
+        android:id="@+id/tv_Earth_C_137"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:textSize="14sp"
+        android:text="a"
+        android:layout_marginStart="20dp"
+        android:layout_gravity="center|start"
+        />
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center|start"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="Type"
+        android:textSize="16sp"
+        android:layout_marginStart="20dp"
+        />
+
+    <TextView
+        android:id="@+id/tv_Unknown"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:textSize="14sp"
+        android:text="a"
+        android:layout_marginStart="20dp"
+        android:layout_gravity="center|start"
+        />
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center|start"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="Location"
+        android:textSize="16sp"
+        android:layout_marginStart="20dp"
+        />
+
+    <TextView
+        android:id="@+id/tv_Earth"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:textSize="14sp"
+        android:text="a"
+        android:layout_marginStart="20dp"
+        android:layout_gravity="center|start"
+        />
+
+
+
+
+
+
+
+</LinearLayout>
